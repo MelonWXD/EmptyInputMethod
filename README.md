@@ -1,2 +1,3 @@
 # EmptyInputMethod
-无界面输入法-禁用输入法-自动化测试
+照搬Appium输入法源码实现一个空的输入法，兼容Android4.0以上
+
